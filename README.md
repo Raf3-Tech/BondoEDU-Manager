@@ -103,7 +103,7 @@ This digital transformation will position Bondo CDSS as a forward-thinking insti
 ---
 
 ### Developer Information
-- **Name**: X Developers  
+- **Name**: Chrispine Sibale 
 - **Email**: raf33arn@gmail.com  
 - **Phone**: 0981167823 / 0887833995  
 
